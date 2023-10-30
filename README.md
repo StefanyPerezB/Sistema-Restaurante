@@ -57,9 +57,3 @@ Para ver de forma general el sistema, se ingresará las credenciales:
 - **[Correo electrónico: adminsistema@gmail.com]**
 - **[Contraseña: admin]**
 
-![Inicio de Sesión](image.png)
-
-- **[Dashboard: Panel de administración]**
-
-![Dashboard](image-1.png)
-
