@@ -3,7 +3,9 @@
 
 ## Descripción General
 
-Proyecto de ventas y almacén de un restaurante con Laravel.
+Proyecto de ventas y almacén de un restaurante con Laravel. 
+Para este presente proyecto, se usó la metodología SCRUM, que  se centra en la entrega iterativa e incremental del producto(página web) permitiendo una mayor flexibilidad y capacidad de adaptación teniendo una comunicación constante entre los miembros del equipo.
+Esta metodología cuenta con 3 sprints de un tiempo de aproximadamente 2 semanas, donde por el momento en este avance solo está completos el sprint 1 y el sprint 2 :)
 
 ## Contenido
 
@@ -28,10 +30,10 @@ Proyecto de ventas y almacén de un restaurante con Laravel.
 -   Cumplimiento Legal y Fiscal: Garantizar el cumplimiento de todas
 
 ## 2. Librerías y herramientas utilizadas
-Esta aplicación web se encuentra implementada en Laravel v8.
+Esta aplicación web se encuentra implementada en Laravel, pero también cuenta con otras herramientas que han sido utilizadas en este proyecto:
 
 - **[Laravel v8](https://laravel.com/docs/8.x/routing)**
-- **[AdminLTE v3.2.0](https://adminlte.io)**
+- **[AdminLTE v3.2.0](https://github.com/jeroennoten/Laravel-AdminLTE/wiki/Installation)**
 - **[Bootstrap v5.3](https://getbootstrap.com/docs/5.3/getting-started/introduction/)**
 - **[Node JS v16.13.1](https://www.npackd.org/p/org.nodejs.NodeJS64/16.13.1)**
 
