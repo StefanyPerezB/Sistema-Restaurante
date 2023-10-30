@@ -5,7 +5,7 @@
 
 Proyecto de ventas y almacén de un restaurante con Laravel. 
 Para este presente proyecto, se usó la metodología SCRUM, que  se centra en la entrega iterativa e incremental del producto(página web) permitiendo una mayor flexibilidad y capacidad de adaptación teniendo una comunicación constante entre los miembros del equipo.
-Esta metodología cuenta con 3 sprints de un tiempo de aproximadamente 2 semanas, donde por el momento en este avance solo está completos el sprint 1 y el sprint 2 :)
+Esta metodología cuenta con 3 sprints de un tiempo de aproximadamente 2 semanas, donde por el momento en este avance solo están completos el sprint 1 y el sprint 2 :)
 
 ## Contenido
 
