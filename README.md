@@ -54,6 +54,6 @@ Para este sistema, consta de 4 usuarios: administrador del sistema, administrado
 
 Para ver de forma general el sistema, se ingresará las credenciales:
 
-- **[Correo electrónico: adminsistema@gmail.com]**
-- **[Contraseña: admin]**
+- **Correo electrónico: adminsistema@gmail.com**
+- **Contraseña: admin**
 
