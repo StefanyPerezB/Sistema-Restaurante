@@ -52,7 +52,7 @@ Esta aplicación web se encuentra implementada en Laravel, pero también cuenta 
 Para ingresar al Sistema de Restaurante, se mostrará dos campos en los que piden ingresar el correo electrónico
 y la contraseña.
 
-Para este sistema, consta de 4 usuarios: administrador del sistema, administrador, recepcionista y mesero
+Para este sistema, consta de 6 usuarios: administrador del sistema, administrador, recepcionista, mesero, jefe de compras y jefe de almacén.
 
 Para ver de forma general el sistema, se ingresará las credenciales:
 
