@@ -1,5 +1,3 @@
-<p align="center"><a  target="_blank"><img src="https://scontent.ftru2-3.fna.fbcdn.net/v/t39.30808-6/349119151_1216116569107373_4910761614268136203_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeE56vHaEtKu1h_msT-j5SRgoyneK5GYb2CjKd4rkZhvYMtteokbDtojhLQBo_zS9yttgdn5qTschojjcGgcySQ6&_nc_ohc=3AgTLFqPTcgAX-neU1q&_nc_ht=scontent.ftru2-3.fna&oh=00_AfA-zzkii-PIubxBzURtTq7w_ZoEHFJgHHMhKH9jjChQ7Q&oe=65455A17" width="400"></a></p>
-
 
 ## Descripción General
 
