@@ -1,7 +1,3 @@
-
-
-<span>![</span><span>Aquí la descripción de la imagen por si no carga</span><span>]</span><span>(</span><span>https://raw.githubusercontent.com/StefanyPerezB/Sistema-Restaurante/main/inicio.png</span><span>)</span>
-
 ## Descripción General
 
 Proyecto de ventas y almacén de un restaurante con Laravel. 
