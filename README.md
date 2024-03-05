@@ -1,3 +1,4 @@
+https://raw.githubusercontent.com/StefanyPerezB/Sistema-Restaurante/main/inicio.png
 
 ## Descripción General
 
