@@ -1,4 +1,4 @@
-## Descripción General
+## Descripción General - Versión 2.0
 
 Proyecto de ventas y almacén de un restaurante con Laravel. 
 Para este presente proyecto, se usó la metodología SCRUM, que  se centra en la entrega iterativa e incremental del producto(página web) permitiendo una mayor flexibilidad y capacidad de adaptación teniendo una comunicación constante entre los miembros del equipo.
